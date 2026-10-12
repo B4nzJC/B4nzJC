@@ -1,46 +1,46 @@
-# B4nzJC | Python & Cybersecurity
+# B4nzJC | Python e Cibersegurança
 
-Hello! 👋 Welcome to my GitHub profile.
+Olá! 👋 Seja bem-vindo ao meu perfil no GitHub!
 
-I'm a beginner developer currently learning **Python**, with a growing interest in **Cybersecurity** and Information Security.
+Sou um estudante iniciante de programação, atualmente aprendendo **Python**, com crescente interesse em **Cibersegurança** e Segurança da Informação.
 
-I'm building my skills step by step through practical projects, experiments, and documentation.
+Estou desenvolvendo minhas habilidades passo a passo por meio de projetos práticos, experimentos e documentação dos meus aprendizados.
 
-## 🎯 Current Focus
+## 🎯 Foco atual
 
-- 🐍 Python fundamentals and problem-solving
-- 🖥️ Linux and command-line basics
-- 🌐 Computer networking fundamentals
-- 🔐 Cybersecurity foundations
-- 📚 Learning through hands-on projects
+- 🐍 Fundamentos de Python e resolução de problemas
+- 🖥️ Linux e comandos de terminal
+- 🌐 Fundamentos de redes de computadores
+- 🔐 Fundamentos de Cibersegurança
+- 📚 Aprendizado por meio de projetos práticos
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias e ferramentas
 
-**Currently learning**
+**Estudando atualmente**
 - Python
 
-**Exploring next**
-- Git and GitHub
+**Próximos objetivos**
+- Git e GitHub
 - Linux
-- Networking fundamentals
+- Fundamentos de redes de computadores
 
-## 📂 Projects
+## 📂 Projetos
 
-I'm building my portfolio from the ground up.
+Estou construindo meu portfólio desde o início.
 
-My repositories will document what I'm learning, the problems I'm solving, and how my skills evolve over time.
+Meus repositórios documentarão o que estou aprendendo, os problemas que estou resolvendo e a evolução das minhas habilidades ao longo do tempo.
 
-## 📈 Learning Philosophy
+## 📈 Minha forma de aprender
 
-- Learn the fundamentals before the tools
-- Build small projects consistently
-- Document mistakes and lessons learned
-- Practice cybersecurity only in authorized environments
+- Aprender os fundamentos antes de utilizar ferramentas avançadas
+- Desenvolver pequenos projetos com consistência
+- Documentar erros, soluções e aprendizados
+- Praticar cibersegurança somente em ambientes autorizados
 
-## 🌱 Goal
+## 🌱 Meu objetivo
 
-To grow as a Python developer and gradually develop practical skills in Cybersecurity.
+Evoluir como desenvolvedor Python e, gradualmente, desenvolver habilidades práticas em Cibersegurança.
 
 ---
 
-*Learning every day. Building one project at a time.* 🚀
+*Aprendendo todos os dias. Construindo um projeto de cada vez.* 🚀
